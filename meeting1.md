@@ -4,7 +4,7 @@ _Date: 2018 02 0X_
 
 Attended:
 
-|Name |Bath Email| |
+|Name |Bath Email|
 |--|--|
 | Aurimas Bukauskas | ab697@bath.ac.uk|
 | Steve Davey | smd50@bath.ac.uk|
@@ -37,12 +37,17 @@ Attended:
         + Reflector / Media (Optional)
 
 ### Publicity
-6. Facebook Event 
-7. Make a flyer/poster for event
-8. Eventbrite
-Media 
-* press@bath.ac.uk
+
+* Create Facebook Event 
+* Create Eventbrite Event
+* Make a physical flyer/poster
+* Draft Publicity Email
+* Liase with UoB Press Office
+
+press@bath.ac.uk
 http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index.html
+
+
 
 ### Budgeting / Materials 
 * props / costumes
