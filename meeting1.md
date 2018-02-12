@@ -50,11 +50,41 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 
 
 ### Budgeting / Materials 
-* props / costumes
-* Food
-* Microphone
-Budgeting
-2. Overview organisational checklist - any new stuff to do?
+
+
+* Materials List:
+    * Computer
+    * Projector
+    * White boards
+    * Flip-charts
+    * Blue tarp
+    * Costumes
+    * Microphone?
+
+* Catering:
+    - Food
+    - Beverages
+
+
+```
+Room Setup:
+
+The room should be set up with:
+• Tables and chairs or areas on the floor for the teams. Each table or area should have:
+o Alabelwithgroup’sname(tabletent),
+o BriefingStatementsfortheteam(approximatelyoneperteam
+member),
+o 2-3 ProposalForms.
+• A computer with access to the C-ROADS World Climate simulator (downloaded to the local computer or running online) and PowerPoint slides, a projector, and a screen in the center of the front area.
+• A white board (or big pieces of paper) with a large grid for participants to write their commitments that everyone can read from their seats (figure 1).
+• A flip chart with pre-drawn diagrams (figure 2 & 3).
+• A blue tarp near the area where the ‘Other Developing Countries’ will sit, which
+will be used to symbolize sea level rise.
+• Somewhere out of sight, such as outside the room or in the back, store your
+more formal clothes or accessories for acting as the UN Secretary General or as UNFCCC Executive Secretary, e.g., a tie, blazer, or scarf.
+Though this is what we have found to work best for us after many events, you can always mix and match pieces to suit your needs.
+
+```
 
 ### Impact 
 
@@ -63,6 +93,7 @@ Budgeting
 ### Miscellaneous
 
 * General Suggestions / Ideas
+* _Richard, would you be down to do some economic analysis on GDP, etc... in prep for the game?..._
 
 
 ---
