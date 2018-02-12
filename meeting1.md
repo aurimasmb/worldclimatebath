@@ -29,7 +29,7 @@ _Date: **2018 02 14**_
     - Preparation Tasks:
         + Pre-Event Publicity _(Emails, Facebook, Poster, Eventbrite management)_
         + Funding _(Calculating budget, and finding funding if necessary)_
-        + Logistics _(Acquiring materials, coordinating room)_
+        + Logistics _(Acquiring materials, ordering food, coordinating room setup)_
         + Post-Event Impact ?
     - Event Roles:
         + Facilitator _(MC for event)_
