@@ -22,6 +22,8 @@ _Date: **2018 02 14**_
 * Materials List:
     * Computer
     * Projector
+    * Printed Briefing Materials
+    * Printed Table Cards
     * White boards
     * Flip-charts
     * Blue tarp
