@@ -41,6 +41,8 @@ _Date: **2018 02 14**_
 
 **Recommended room setup:**
 
+From: [World Climate Interactive Facilitator Resources (v32)](https://d168d9ca7ixfvo.cloudfront.net/wp-content/uploads/2018/02/World-Climate-Facilitator-Guide-v32.pdf)
+
 ```
 Room Setup:
 
