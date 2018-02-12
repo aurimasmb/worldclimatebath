@@ -1,6 +1,6 @@
-# World Climate Interactive
+# World Climate Interactive [Planning Meeting 1]
 
-_Date: 2018 02 0X_
+_Date: 2018 02 14_
 
 Attended:
 
@@ -47,10 +47,7 @@ Attended:
 press@bath.ac.uk
 http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index.html
 
-
-
 ### Budgeting / Materials 
-
 
 * Materials List:
     * Computer
@@ -62,9 +59,15 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
     * Microphone?
 
 * Catering:
-    - Food
+    - Food (dietary needs?)
     - Beverages
+    
+* Budget / Funding:
+    * How much needed? 
+    * How much available?
 
+
+**Recommended room setup:**
 
 ```
 Room Setup:
@@ -88,13 +91,12 @@ Though this is what we have found to work best for us after many events, you can
 
 ### Impact 
 
-* Follow-up Survey?
+* Follow-up Survey? (Maya)
 
 ### Miscellaneous
 
 * General Suggestions / Ideas
 * _Richard, would you be down to do some economic analysis on GDP, etc... in prep for the game?..._
-
 
 ---
 
