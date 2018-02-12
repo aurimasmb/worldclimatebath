@@ -17,40 +17,7 @@ _Date: **2018 02 14**_
 
 * Brief new joiners on World Climate Negotiations game, aims, etc.
 
-### 2. Scheduling
-
-* Book final date, time of day, location for the event, location, 4W graduate centre. _(Suggestion: 10W, 4W, or 1W Graduate Commons, Duration: 4 hours)_
-* Choose a date for a trial game.
-* Register event with World Climate Interactive website.
-
-### 3. Roles 
-
-* Assign / Commit to Roles:
-    - Preparation Tasks:
-        + Pre-Event Publicity _(Emails, Facebook, Poster, Eventbrite management)_
-        + Funding _(Calculating budget, and finding funding if necessary)_
-        + Logistics _(Acquiring materials, ordering food, coordinating room setup)_
-        + Post-Event Impact ?
-    - Event Roles:
-        + Facilitator _(MC for event)_
-        + Co-Facilitator 1 _(Supporting gameplay)_
-        + Co-Facilitator 2 _(Supporting gameplay)_
-        + UN Environment Programme (UNEP) technical lead _(Enters negotiation proposals into simulator as requested.)_
-        + Ombudsmperson (Optional) _(Helps broker deals)_
-        + Reflector / Media (Optional) _(Records event, tweets, photographs, etc.)_
-
-### 4. Publicity
-
-* Create Facebook Event 
-* Create Eventbrite Event
-* Make a physical flyer/poster
-* Draft Publicity Email
-* Liase with UoB Press Office
-
-press@bath.ac.uk
-http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index.html
-
-### 5. Budgeting / Materials 
+### 2. Budgeting / Materials 
 
 * Materials List:
     * Computer
@@ -92,9 +59,47 @@ Though this is what we have found to work best for us after many events, you can
 
 ```
 
-### 6. Impact 
+### 3. Publicity
+
+* Create Facebook Event 
+* Create Eventbrite Event
+* Make a physical flyer/poster
+* Draft Publicity Email
+* Liase with UoB Press Office
+
+press@bath.ac.uk
+http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index.html
+
+
+### 4. Impact 
 
 * Follow-up Survey? (Maya)
+
+
+### 5. Roles 
+
+* Assign / Commit to Roles:
+    - Preparation Tasks:
+        + Pre-Event Publicity _(Emails, Facebook, Poster, Eventbrite management)_
+        + Funding _(Calculating budget, and finding funding if necessary)_
+        + Logistics _(Acquiring materials, ordering food, coordinating room setup)_
+        + Post-Event Impact ?
+    - Event Roles:
+        + Facilitator _(MC for event)_
+        + Co-Facilitator 1 _(Supporting gameplay)_
+        + Co-Facilitator 2 _(Supporting gameplay)_
+        + UN Environment Programme (UNEP) technical lead _(Enters negotiation proposals into simulator as requested.)_
+        + Ombudsmperson (Optional) _(Helps broker deals)_
+        + Reflector / Media (Optional) _(Records event, tweets, photographs, etc.)_
+
+
+
+### 6. Scheduling
+
+* Book final date, time of day, location for the event, location, 4W graduate centre. _(Suggestion: 10W, 4W, or 1W Graduate Commons, Duration: 4 hours)_
+* Choose a date for a trial game.
+* Register event with World Climate Interactive website.
+
 
 ### 7. Miscellaneous
 
@@ -107,9 +112,13 @@ Though this is what we have found to work best for us after many events, you can
 
 ### 1. Introduction
 
-### 2. Scheduling
+### 2. Budgeting / Materials 
 
-### 3. Roles
+### 3. Publicity
+
+### 4. Impact 
+
+### 5. Roles
 
 |Name |Bath Email| Role |
 |--|--|--|
@@ -122,10 +131,6 @@ Though this is what we have found to work best for us after many events, you can
 |Name|@bath.ac.uk|Ombudsperson|
 |Name|@bath.ac.uk|Reflector / Media|
 
-### 4. Publicity
-
-### 5. Budgeting / Materials 
-
-### 6. Impact 
+### 6. Scheduling
 
 ### 7. Miscellaneous
