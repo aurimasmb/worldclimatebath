@@ -6,9 +6,9 @@ _Date: **2018 02 14**_
 
 |Name |Bath Email|
 |--|--|
-| Aurimas Bukauskas | ab697@bath.ac.uk|
+| Auri Bukauskas | ab697@bath.ac.uk|
 | Steve Davey | smd50@bath.ac.uk|
-| Alastair Marsh | XXX@bath.ac.uk|
+| Alastair Marsh | am2263@bath.ac.uk|
 | Name | XXX@bath.ac.uk|
 
 ## Agenda
@@ -126,7 +126,7 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 |--|--|--|
 |Name|@bath.ac.uk|Pre-Event Publicity|
 |Name|@bath.ac.uk|Post-Event Impact Recording|
-| Aurimas Bukauskas | ab697@bath.ac.uk| Facilitator |
+| Auri Bukauskas | ab697@bath.ac.uk| Facilitator |
 |Name|@bath.ac.uk|Co-Facilitator 1|
 |Name|@bath.ac.uk|Co-Facilitator 2|
 |Name|@bath.ac.uk|UNEP Technical Lead|
