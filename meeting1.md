@@ -1,8 +1,8 @@
 # World Climate Interactive [Planning Meeting 1]
 
-_Date: 2018 02 14_
+_Date: **2018 02 14**_
 
-Attended:
+### Attended
 
 |Name |Bath Email|
 |--|--|
