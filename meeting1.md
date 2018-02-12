@@ -13,17 +13,17 @@ _Date: **2018 02 14**_
 
 ## Agenda
 
-### Introduction
+### 1. Introduction
 
 * Brief new joiners on World Climate Negotiations game, aims, etc.
 
-### Scheduling
+### 2. Scheduling
 
 * Book final date, time of day, location for the event, location, 4W graduate centre. _(Suggestion: 10W, 4W, or 1W Graduate Commons, Duration: 4 hours)_
 * Choose a date for a trial game.
 * Register event with World Climate Interactive website.
 
-### Roles 
+### 3. Roles 
 
 * Assign / Commit to Roles:
     - Preparation Tasks:
@@ -39,7 +39,7 @@ _Date: **2018 02 14**_
         + Ombudsmperson (Optional) _(Helps broker deals)_
         + Reflector / Media (Optional) _(Records event, tweets, photographs, etc.)_
 
-### Publicity
+### 4. Publicity
 
 * Create Facebook Event 
 * Create Eventbrite Event
@@ -50,7 +50,7 @@ _Date: **2018 02 14**_
 press@bath.ac.uk
 http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index.html
 
-### Budgeting / Materials 
+### 5. Budgeting / Materials 
 
 * Materials List:
     * Computer
@@ -92,11 +92,11 @@ Though this is what we have found to work best for us after many events, you can
 
 ```
 
-### Impact 
+### 6. Impact 
 
 * Follow-up Survey? (Maya)
 
-### Miscellaneous
+### 7. Miscellaneous
 
 * General Suggestions / Ideas
 * _Richard, would you be down to do some economic analysis on GDP, etc... in prep for the game?..._
@@ -105,11 +105,11 @@ Though this is what we have found to work best for us after many events, you can
 
 ## Notes
 
-### Introduction
+### 1. Introduction
 
-### Scheduling
+### 2. Scheduling
 
-### Roles
+### 3. Roles
 
 |Name |Bath Email| Role |
 |--|--|--|
@@ -122,4 +122,10 @@ Though this is what we have found to work best for us after many events, you can
 |Name|@bath.ac.uk|Ombudsperson|
 |Name|@bath.ac.uk|Reflector / Media|
 
-### Publicity
+### 4. Publicity
+
+### 5. Budgeting / Materials 
+
+### 6. Impact 
+
+### 7. Miscellaneous
