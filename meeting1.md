@@ -26,16 +26,18 @@ _Date: **2018 02 14**_
 ### Roles 
 
 * Assign / Commit to Roles:
-    - Preparation Roles:
-        + Pre-Event Publicity
-        + Impact / Post-??? 
+    - Preparation Tasks:
+        + Pre-Event Publicity _(Emails, Facebook, Poster, Eventbrite management)_
+        + Funding _(Calculating budget, and finding funding if necessary)_
+        + Logistics _(Acquiring materials, coordinating room)_
+        + Post-Event Impact ?
     - Event Roles:
-        + Facilitator
-        + Co-Facilitator 1
-        + Co-Facilitator 2
-        + UN Environment Programme (UNEP) technical lead
-        + Ombudsmperson (Optional)
-        + Reflector / Media (Optional)
+        + Facilitator _(MC for event)_
+        + Co-Facilitator 1 _(Supporting gameplay)_
+        + Co-Facilitator 2 _(Supporting gameplay)_
+        + UN Environment Programme (UNEP) technical lead _(Enters negotiation proposals into simulator as requested.)_
+        + Ombudsmperson (Optional) _(Helps broker deals)_
+        + Reflector / Media (Optional) _(Records event, tweets, photographs, etc.)_
 
 ### Publicity
 
