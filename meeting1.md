@@ -78,6 +78,7 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 ### 4. Impact 
 
 * Follow-up Survey? (Maya)
+* http://climate-change-initiative.org/research/join-our-world-climate-project-research-effort
 
 
 ### 5. Roles 
