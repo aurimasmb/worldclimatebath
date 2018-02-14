@@ -9,7 +9,12 @@ _Date: **2018 02 14**_
 | Auri Bukauskas | ab697@bath.ac.uk|
 | Steve Davey | smd50@bath.ac.uk|
 | Alastair Marsh | am2263@bath.ac.uk|
+| Ben Brown | bdcb20@bath.ac.uk|
+| Federica Mevoli | fem46@bath.ac.uk|
 | Name | XXX@bath.ac.uk|
+| Name | XXX@bath.ac.uk|
+| Name | XXX@bath.ac.uk|
+
 
 ## Agenda
 
@@ -119,6 +124,28 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 
 ### 2. Budgeting / Materials 
 
+Uni catering is surprisingly expensive.
+
+Chem Eng has hot-water boiler. (Or another department)
+
+Mugs? byomug.
+
+Sonya can do free printing.
+
+Other materials collected for free as needed.
+
+Estimated Costs: 
+   * Food: Total: £200 
+      * Pizza: £5 / person  
+      * General Snacks £1 / person
+      
+Funding Sources:
+   * COP21 Working group? Staff donations?
+   * Ask Aurelie?
+   * Ask Paul Shepherd
+   * Ask Pete Phelps (Head of Estates)
+   * Science in Policy group
+
 ### 3. Publicity
 
 ### 4. Impact 
@@ -135,6 +162,7 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 |Name|@bath.ac.uk|UNEP Technical Lead|
 |Name|@bath.ac.uk|Ombudsperson|
 |Name|@bath.ac.uk|Reflector / Media|
+|Maya(Tentative)|@bath.ac.uk|Coordinating Finding Funding|
 
 ### 6. Scheduling
 
