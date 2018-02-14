@@ -11,7 +11,7 @@ _Date: **2018 02 14**_
 | Alastair Marsh | am2263@bath.ac.uk|
 | Ben Brown | bdcb20@bath.ac.uk|
 | Federica Mevoli | fem46@bath.ac.uk|
-| Sonia  | sr756@bath.ac.uk|
+| Sonia Raikova | sr756@bath.ac.uk|
 
 
 ## Agenda
@@ -120,32 +120,47 @@ http://www.bath.ac.uk/marketing/teams-services/communications/press-office/index
 
 ### 1. Introduction
 
+Showed video introducing Climate Interactive Negotiations Game : https://www.climateinteractive.org/programs/world-climate/
+
 ### 2. Budgeting / Materials 
 
-Uni catering is surprisingly expensive.
+#### Costs
 
-Chem Eng has hot-water boiler. (Or another department)
+Uni catering (coffee/tea/snacks trolley) is surprisingly expensive.
 
-Mugs? byomug.
+We could borrow a hot-water boiler from Chem-Eng, or another department (ACE, etc.)
 
-Sonya can do free printing.
+Mugs / Cups? We could do BYOMug or figure out some kind of biodegradable / recyclable option?
+
+Sonia can do free printing of materials.
 
 Other materials collected for free as needed.
+
+So the only costs remaining are likely to be just food.
+
+Because the event is long, and starts around lunch time it would be good to buy lunch for everyone. Pizza?
 
 Estimated Costs: 
    * Food: Total: £200 
       * Pizza: £5 / person  
       * General Snacks £1 / person
       
+**Summary: we'll need about £200 for food and drink for the event. We don't have any other expenses we can think of.**
+
+Todo: **put together some way for people to claim which materials they will bring**
+
+#### Funding 
+
+We should each ask around for funding sources.
+
+We should have a single point person responsible for securing funding. (Suggestion was Maya.)
+
 Funding Sources:
    * COP21 Working group? Staff donations?
    * Ask Aurelie?
    * Ask Paul Shepherd
    * Ask Pete Phelps (Head of Estates)
    * Science in Policy group
-
-**put together some way for people to claim which materials they will bring**
-
 
 ### 3. Publicity
 
@@ -189,6 +204,7 @@ Talk with Maya, Niall, any others interested. Make sure they see this: http://cl
 |Ben Brown|@bath.ac.uk|Ombudsperson (person who facilitates proposals / deals)|
 |Name|@bath.ac.uk|Reflector / Media|
 |Maya(Tentative)|@bath.ac.uk|Coordinating Finding Funding|
+|Name|@bath.ac.uk|Coordinating Collecting Materials,Food,Drinks, etc. for the event.|
 
 ### 6. Scheduling
 
@@ -225,3 +241,5 @@ Options
 
 
 ### 7. Miscellaneous
+
+20 Minute Version of Climate Interactive Game: https://d168d9ca7ixfvo.cloudfront.net/wp-content/uploads/2014/01/WCIn20Minutes.pdf
