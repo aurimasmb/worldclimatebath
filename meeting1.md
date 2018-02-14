@@ -199,4 +199,16 @@ Lunch time ish is good because people are on campus and we can serve lunch (pizz
 
 CSCT symposium is following Wednesday the 25th
 
+#### Location
+
+10w graduate commons may not be bookable? whom would we need to contact to book this space? doctoral college person? 
+
+Options
+* 10 w commons? 
+* chancellor's building rooms
+   * 4.1 , 5.1 
+   * 
+
+
+
 ### 7. Miscellaneous
