@@ -11,9 +11,7 @@ _Date: **2018 02 14**_
 | Alastair Marsh | am2263@bath.ac.uk|
 | Ben Brown | bdcb20@bath.ac.uk|
 | Federica Mevoli | fem46@bath.ac.uk|
-| Name | XXX@bath.ac.uk|
-| Name | XXX@bath.ac.uk|
-| Name | XXX@bath.ac.uk|
+| Sonia  | sr756@bath.ac.uk|
 
 
 ## Agenda
@@ -146,6 +144,9 @@ Funding Sources:
    * Ask Pete Phelps (Head of Estates)
    * Science in Policy group
 
+**put together some way for people to claim which materials they will bring**
+
+
 ### 3. Publicity
 
 Niall will oversee publicity for the event.
@@ -191,6 +192,8 @@ Talk with Maya, Niall, any others interested. Make sure they see this: http://cl
 
 ### 6. Scheduling
 
+#### Main Event Scheduling
+
 Wednesdays are good because undergrads don't have lectures?
 
 Lunch time ish is good because people are on campus and we can serve lunch (pizza).
@@ -198,6 +201,16 @@ Lunch time ish is good because people are on campus and we can serve lunch (pizz
 **1-5 PM on April 18th 2018 (4 hours)**
 
 CSCT symposium is following Wednesday the 25th
+
+#### Trial Game Scheduling 
+
+https://doodle.com/poll/ym3dxr5uxys5766b
+
+Send to:
+ * Niall - ncm27@bath.ac.uk
+ * Maya - XXX@bath.ac.uk
+
+slash just spam that email chain.
 
 #### Location
 
