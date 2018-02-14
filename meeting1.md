@@ -164,11 +164,9 @@ Funding Sources:
 
 ### 3. Publicity
 
-Niall will oversee publicity for the event.
+**Niall** will oversee publicity for the event.
 
-World Climate Interactive has a poster template!
-
-**(add a link to that here!)**
+World Climate Interactive has a poster template! https://d168d9ca7ixfvo.cloudfront.net/wp-content/uploads/2016/09/WorldClimate_Poster_Form_CIUM6P1.pdf
 
 Whom to advertise to:
  * Use COP21 email list (includes staff and students)
@@ -182,7 +180,9 @@ Whom to advertise to:
  * 
  
 Reach out to Press Office to publicise event.
- 
+
+Create an Eventbrite linked to Facebook event.
+
 ### 4. Impact 
 
 Are there research ethics issues?
@@ -243,3 +243,5 @@ Options
 ### 7. Miscellaneous
 
 20 Minute Version of Climate Interactive Game: https://d168d9ca7ixfvo.cloudfront.net/wp-content/uploads/2014/01/WCIn20Minutes.pdf
+
+Different length versions! https://d168d9ca7ixfvo.cloudfront.net/wp-content/uploads/2014/01/WCE-activity-breakdown-timeline.pdf
