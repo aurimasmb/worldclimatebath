@@ -182,7 +182,7 @@ Talk with Maya, Niall, any others interested. Make sure they see this: http://cl
 |Niall|@bath.ac.uk|Pre-Event Publicity|
 |Name|@bath.ac.uk|Post-Event Impact Recording|
 | Auri Bukauskas | ab697@bath.ac.uk| Facilitator |
-|Name|@bath.ac.uk|Co-Facilitator 1|
+| Federica Mevoli |@bath.ac.uk|Co-Facilitator 1|
 |Name|@bath.ac.uk|Co-Facilitator 2|
 |Sonia| @bath.ac.uk| UNEP Technical Lead (Person who enters data into climate model / knows basics of climate science.)|
 |Ben Brown|@bath.ac.uk|Ombudsperson (person who facilitates proposals / deals)|
