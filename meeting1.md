@@ -191,4 +191,12 @@ Talk with Maya, Niall, any others interested. Make sure they see this: http://cl
 
 ### 6. Scheduling
 
+Wednesdays are good because undergrads don't have lectures?
+
+Lunch time ish is good because people are on campus and we can serve lunch (pizza).
+
+**1-5 PM on April 18th 2018 (4 hours)**
+
+CSCT symposium is following Wednesday the 25th
+
 ### 7. Miscellaneous
