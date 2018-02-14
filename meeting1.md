@@ -185,11 +185,15 @@ Create an Eventbrite linked to Facebook event.
 
 ### 4. Impact 
 
+http://climate-change-initiative.org/research/join-our-world-climate-project-research-effort is conducting an impact study associated with the climate interactive project. 
+
+They provide a pre and post survey which we can distribute to participants and feed back to the group.
+
 Are there research ethics issues?
 
 NO. as long as it is confidential?
 
-Talk with Maya, Niall, any others interested. Make sure they see this: http://climate-change-initiative.org/research/join-our-world-climate-project-research-effort
+Talk with **Maya**, **Niall**, any others interested. Make sure they see this: http://climate-change-initiative.org/research/join-our-world-climate-project-research-effort
 
 ### 5. Roles
 
@@ -218,13 +222,15 @@ Lunch time ish is good because people are on campus and we can serve lunch (pizz
 
 CSCT symposium is following Wednesday the 25th
 
+**UPDATE: Actually it looks like the game won't actually take 4 hours! It looks like there is a 1.5 hour version! This seems a bit more sensible.**
+
 #### Trial Game Scheduling 
 
 https://doodle.com/poll/ym3dxr5uxys5766b
 
 Send to:
  * Niall - ncm27@bath.ac.uk
- * Maya - XXX@bath.ac.uk
+ * Maya - mlsh21@bath.ac.uk
 
 slash just spam that email chain.
 
@@ -232,13 +238,14 @@ slash just spam that email chain.
 
 10w graduate commons may not be bookable? whom would we need to contact to book this space? doctoral college person? 
 
-Options
-* 10 w commons? 
-* chancellor's building rooms
-   * 4.1 , 5.1 
-   * 
+Actually one of the conference spaces in the Chancellor's Building may be better (group tables, whiteboards, large projector screens.)
 
+Chancellor's Building rooms: 
 
+* CB 4.6 -- 8x Group Tables, 6 white boards
+* CB 5.12 -- 8x Group Tables, 7 white boards
+* CB 5.13 -- Computer Lab with Group tables (a bit too big?)
+* CB 3.1,4.1,5.1 -- 80 person capacity at normal tables.
 
 ### 7. Miscellaneous
 
