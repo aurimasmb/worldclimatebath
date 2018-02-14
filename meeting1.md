@@ -148,13 +148,30 @@ Funding Sources:
 
 ### 3. Publicity
 
+Niall will oversee publicity for the event.
+
+World Climate Interactive has a poster template!
+
+**(add a link to that here!)**
+
+Whom to advertise to:
+ * Use COP21 email list (includes staff and students)
+ * Bath People and Planet (Ben)
+ * BSP email list
+ * BSP facebook
+ * BSP Twitter (Maya??)
+ * Bath SiP
+ * dCarb, BRE CICM, CSCT, other CDT's.
+ * School of Manamement
+ * 
+ 
 ### 4. Impact 
 
 ### 5. Roles
 
 |Name |Bath Email| Role |
 |--|--|--|
-|Name|@bath.ac.uk|Pre-Event Publicity|
+|Niall|@bath.ac.uk|Pre-Event Publicity|
 |Name|@bath.ac.uk|Post-Event Impact Recording|
 | Auri Bukauskas | ab697@bath.ac.uk| Facilitator |
 |Name|@bath.ac.uk|Co-Facilitator 1|
