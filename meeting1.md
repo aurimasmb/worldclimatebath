@@ -165,7 +165,15 @@ Whom to advertise to:
  * School of Manamement
  * 
  
+Reach out to Press Office to publicise event.
+ 
 ### 4. Impact 
+
+Are there research ethics issues?
+
+NO. as long as it is confidential?
+
+Talk with Maya, Niall, any others interested. Make sure they see this: http://climate-change-initiative.org/research/join-our-world-climate-project-research-effort
 
 ### 5. Roles
 
@@ -176,8 +184,8 @@ Whom to advertise to:
 | Auri Bukauskas | ab697@bath.ac.uk| Facilitator |
 |Name|@bath.ac.uk|Co-Facilitator 1|
 |Name|@bath.ac.uk|Co-Facilitator 2|
-|Name|@bath.ac.uk|UNEP Technical Lead|
-|Name|@bath.ac.uk|Ombudsperson|
+|Sonia| @bath.ac.uk| UNEP Technical Lead (Person who enters data into climate model / knows basics of climate science.)|
+|Ben Brown|@bath.ac.uk|Ombudsperson (person who facilitates proposals / deals)|
 |Name|@bath.ac.uk|Reflector / Media|
 |Maya(Tentative)|@bath.ac.uk|Coordinating Finding Funding|
 
