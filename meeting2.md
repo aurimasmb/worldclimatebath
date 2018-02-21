@@ -124,7 +124,7 @@ Maya's not here.
 
 ### Trial Game
 
-Trial game - **Sunday Feb 25 4-6 PM** at Steve's flat (right above the Nest) 
+Trial game - **Sunday Feb 25 4-6 PM** at Steve's flat (right above the Nest)  - https://doodle.com/poll/ym3dxr5uxys5766b
 
 Could people please confirm attendance for this?
 
@@ -138,4 +138,3 @@ Agenda:
  * review what we've learned from the trial game
  * finalise / clarify funding sources?
  * finalise / clarify food-related stuff
- * 
