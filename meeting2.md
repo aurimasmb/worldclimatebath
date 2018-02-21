@@ -75,7 +75,11 @@ Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the 
 
 ### Publicity
 
+Alastair suggested that participants could a small item of some kind to take home as a mental reminder of the event. 
 
+A little branded something, or a "I promise to ... " style thing.
+
+Also - it might be cool if the event ended with all of the participants signing a big blown up agreement or something. 
 
 ### SiP Involvement
 
