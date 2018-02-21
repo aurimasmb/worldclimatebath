@@ -9,12 +9,7 @@ _Date: **2018 02 21**_
 | Auri Bukauskas | ab697@bath.ac.uk |
 | Steve Davey | smd50@bath.ac.uk |
 | Alastair Marsh | am2263@bath.ac.uk |
-| Ben Brown | bdcb20@bath.ac.uk |
-| Federica Mevoli | fem46@bath.ac.uk |
-| Sonia Raikova | sr756@bath.ac.uk |
-| Maya Singer-Hobbs | mlsh21@bath.ac.uk |
-| Wenkai Zhang | W.Zhang@bath.ac.uk |
-| Niall McLoughlin | ncm27@bath.ac.uk |
+
 
 ## Agenda
 
