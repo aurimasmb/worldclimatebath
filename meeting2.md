@@ -67,6 +67,8 @@ Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the 
 
 ### Catchup
 
+Suggested to have at least one female on the facilitation group.
+
 ### Food
 
 ### Funding 
