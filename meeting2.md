@@ -130,3 +130,7 @@ Maya's not here.
 ### Trial Game
 
 Trial game - **Sunday Feb 25 4-6 PM** at Steve's flat (right above the Nest) 
+
+### Next Meeting
+
+Feb 28 6-7 PM 8W 2.21
