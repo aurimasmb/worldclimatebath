@@ -63,17 +63,43 @@ See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 
 ## Notes
 
-Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the event. Easiest to keep track of stuff that way.
-
 ### Catchup
 
 Facilitation group should be gender-balanced.
 
 ### Food
 
+Just snacks.
+
+Alastair will track down an urn. 
+
+Snacks should be differentiated according to developed vs. developing.
+
 ### Funding 
 
+We should get in touch with P Keevil about potential funding contribution.
+
+Bath Sustainability Postgraduates has budget left over from Teaching Development Fund (~£100.)  Richard Baxter knows about this.
+
+We could dip into this...
+
 ### Materials
+
+Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the event. Easiest to keep track of stuff that way.
+
+Background music for the event during the beginning to get people into the mood of negotiations. (Makes people more comfortable conversing)
+
+West wing sountrack?
+
+Countdown music for final
+
+https://www.youtube.com/watch?v=M2dhD9zR6hk
+
++
+
+https://www.youtube.com/watch?v=BzNzgsAE4F0
+
+OMG amaze.
 
 ### Publicity
 
@@ -83,6 +109,24 @@ A little branded something, or a "I promise to ... " style thing.
 
 Also - it might be cool if the event ended with all of the participants signing a big blown up agreement or something. 
 
+Channels: 
+* Posters on parade
+* Doctoral Digest emails
+* Twitter 
+* Facebook
+* other social media
+* Societies:
+  * SiP - **Maya** 
+  * People and Planet - **Ben Brown**
+  * Any politics societies? - **Richard Baxter?** 
+  * Chinese Students and Scholars - **Wen Kai?**
+
+We created an EventBrite.
+
 ### SiP Involvement
 
+Maya's not here.
+
 ### Trial Game
+
+Trial game - **Sunday Feb 25 4-6 PM** at Steve's flat (right above the Nest) 
