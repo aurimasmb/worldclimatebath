@@ -47,7 +47,13 @@ Steve is coordinating materials. If anyone has materials to contribute please ch
 
 Niall, do you need any more details for publicity? Do you need help printing,  distributing materials or otherwise?
 
+### SiP Involvement
+
+Maya, does SiP want to get involved, and if so, how? : )
+
 ### Trial Game
+
+In Westgate because there is food, beverages, and plenty of space : )
 
 See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 
@@ -65,5 +71,7 @@ See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 ### Materials
 
 ### Publicity
+
+### SiP Involvement
 
 ### Trial Game
