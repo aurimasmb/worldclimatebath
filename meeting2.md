@@ -61,6 +61,7 @@ See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 
 ## Notes
 
+Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the event. Easiest to keep track of stuff that way.
 
 ### Catchup
 
