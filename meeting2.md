@@ -26,6 +26,8 @@ _Date: **2018 02 21**_
 
 What sort of food do we expect to get and how much will it cost?
 
+Also, we should check [room food policy](http://www.bath.ac.uk/timetable/Food%20and%20drink%20policy.pdf)
+
 Use  [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1R17N4lF4La5fZJ8VGqeBig48MHRJgRMLmvZigt6J-to/edit#gid=0) to calculate the estimated cost.
 
 ### Funding 
@@ -35,6 +37,11 @@ Where will we get funding for the food?
 ### Materials
 
 Steve is coordinating materials. If anyone has materials to contribute please chat with Steve.
+
+
+### Publicity
+
+Niall, do you need any more details for publicity? Do you need help printing,  distributing materials or otherwise?
 
 ### Trial Game
 
@@ -52,5 +59,7 @@ See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 ### Funding 
 
 ### Materials
+
+### Publicity
 
 ### Trial Game
