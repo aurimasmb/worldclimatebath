@@ -126,6 +126,16 @@ Maya's not here.
 
 Trial game - **Sunday Feb 25 4-6 PM** at Steve's flat (right above the Nest) 
 
+Could people please confirm attendance for this?
+
+Auri should print out materials for the trial game.
+
 ### Next Meeting
 
 Feb 28 6-7 PM 8W 2.21
+
+Agenda: 
+ * review what we've learned from the trial game
+ * finalise / clarify funding sources?
+ * finalise / clarify food-related stuff
+ * 
