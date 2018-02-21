@@ -32,6 +32,8 @@ Also, we should check [room food policy](http://www.bath.ac.uk/timetable/Food%20
 
 Use  [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1R17N4lF4La5fZJ8VGqeBig48MHRJgRMLmvZigt6J-to/edit#gid=0) to calculate the estimated cost.
 
+**We need someone to take on the role of ordering food, making sure it arrives on the day, and billing it / getting it reimbursed.**
+
 ### Funding 
 
 Where will we get funding for the food?
