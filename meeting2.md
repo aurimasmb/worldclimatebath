@@ -43,3 +43,14 @@ See [Doodle Poll](https://doodle.com/poll/ym3dxr5uxys5766b)
 ---
 
 ## Notes
+
+
+### Catchup
+
+### Food
+
+### Funding 
+
+### Materials
+
+### Trial Game
