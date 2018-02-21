@@ -14,7 +14,7 @@ _Date: **2018 02 21**_
 | Sonia Raikova | sr756@bath.ac.uk |
 | Maya Singer-Hobbs | mlsh21@bath.ac.uk |
 | Wenkai Zhang | W.Zhang@bath.ac.uk |
-| Niall | ncm27@bath.ac.uk |
+| Niall McLoughlin | ncm27@bath.ac.uk |
 
 ## Agenda
 
