@@ -20,7 +20,7 @@ _Date: **2018 02 21**_
 
 ### Catchup
 
-1. Event is scheduled: **April 18 14:00-16:00 CB 5.12** (We have CB 5.12 from 13:00-17:00).
+1. Event is scheduled: **April 18 14:15-16:05 CB 5.12** (We have CB 5.12 from 13:00-17:00).
 2. Shorter format (only ~2 hours!)
 3. Roles (see [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1R17N4lF4La5fZJ8VGqeBig48MHRJgRMLmvZigt6J-to/edit#gid=0))
 
