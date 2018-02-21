@@ -47,6 +47,8 @@ Steve is coordinating materials. If anyone has materials to contribute please ch
 
 Niall, do you need any more details for publicity? Do you need help printing,  distributing materials or otherwise?
 
+Niall says: are there any additional details which we want to work into the poster or pub materials?
+
 ### SiP Involvement
 
 Maya, does SiP want to get involved, and if so, how? : )
@@ -72,6 +74,8 @@ Steve says: let's allocate a cupboard in 4ES 5.21 to store stuff related to the 
 ### Materials
 
 ### Publicity
+
+
 
 ### SiP Involvement
 
