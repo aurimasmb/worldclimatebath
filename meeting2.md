@@ -64,6 +64,8 @@ Facilitation group should be gender-balanced.
 
 ### Food
 
+Alastair will take care of ordering and invoicing / billing back food.
+
 Just snacks.
 
 Alastair will track down an urn. 
