@@ -93,6 +93,10 @@ It will likely be a reimbursement-style purchase.
 
 Twitter handle: bathsu??
 
+Using TV screens is useless.
+
+Maya says that she has info from a previous event regarding which channels they heard about the event through...
+
 ### Post World Climate Event
 
 An event to keep the momentum going, bring new members into BSP activities.
