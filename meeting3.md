@@ -5,7 +5,10 @@ _2018 02 28_
 ### Attended: 
 
 * Auri
-* Steve
+* Steve 
+* Alastair
+* Kat Lauber
+* Maya Singer Hobbs
 
 ## Agenda
 
@@ -27,6 +30,12 @@ For anyone compiling this additional information for the game, please put togeth
 ```
 
 **We still need someone to collect information regarding the expected impacts of exceeding 1.5 and 2 C, and other effects of climate change and compile this into a few PowerPoint slides. Does someone feel like they might know something about this and would like to contribute?**
+
+**We should do another run-through close to the event to make sure everyone in each role knows what to do, we have a clear timetable.**
+
+**more than one person who could run the simulator?**
+
+**a 2 C countdown clock - we write on the white board the year at which we exceed 2 c!**
 
 ### Funding
 
