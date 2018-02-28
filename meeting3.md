@@ -120,3 +120,12 @@ An event to keep the momentum going, bring new members into BSP activities.
 Measuring impact / feedback?
 
 Doctoral College might like some tangible impacts...
+
+Bike ride?
+
+It would be nice to get the new members to commit to some kind of personal impact reduction?
+
+BSP carbon footprint reduction roullete / darts
+ * meat-free monday
+ * no plastic for a year... etc...
+ 
