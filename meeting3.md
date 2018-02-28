@@ -32,7 +32,7 @@ For anyone compiling this additional information for the game, please put togeth
 
 We currently have access to:
 
-* £100 in Doctoral College Funding
+* ~~£100 in Doctoral College Funding~~
 * £120 in Teaching Development Fund money for BSP, according to Richard.
 
 Do we need to find any more funding or is that enough?
@@ -74,7 +74,24 @@ IPCC references??
 
 ### Funding
 
+Doctoral College has formalised / closed funding.
+
+But may be available soon?
+
+The SU may be able to provide funding. And BSP is ? eligible?
+The SU may be more strict about buying from Uni Catering.
+
+But Maya has received no confirmation. 
+
+But Maya will follow up to ask.
+
+It will likely be a reimbursement-style purchase.
+
 ### Publicity
+
+**Maya will do twitter publicity**
+
+Twitter handle: bathsu??
 
 ### Post World Climate Event
 
