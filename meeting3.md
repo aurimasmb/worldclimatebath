@@ -61,6 +61,11 @@ https://www.facebook.com/events/172862200020052/
 
 ### Trial Game
 
+Adding a few slides to the facilitator powerpoint:
+
+* Maya - impacts.
+* Cat - social impacts (Cape Town, etc.)
+
 ### Funding
 
 ### Publicity
