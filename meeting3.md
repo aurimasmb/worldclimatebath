@@ -66,6 +66,20 @@ Adding a few slides to the facilitator powerpoint:
 * Maya - impacts.
 * Cat - social impacts (Cape Town, etc.)
 
+Why 2 C? 
+
+What about 1.5?  etc.
+
+IPCC references??
+
 ### Funding
 
 ### Publicity
+
+### Post World Climate Event
+
+An event to keep the momentum going, bring new members into BSP activities.
+
+Measuring impact / feedback?
+
+Doctoral College might like some tangible impacts...
