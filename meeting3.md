@@ -33,14 +33,30 @@ For anyone compiling this additional information for the game, please put togeth
 We currently have access to:
 
 * £100 in Doctoral College Funding
-* £120 in Teaching Development Fund money for BSP.
+* £120 in Teaching Development Fund money for BSP, according to Richard.
 
 Do we need to find any more funding or is that enough?
 
 ### Publicity
+
+Eventbrite event has been created. Tickets for free purchaseable on Eventbrite.
+
+https://www.eventbrite.co.uk/e/world-climate-interactive-negotiations-game-tickets-43406956375
+
+Facebook event has been created:
+
+https://www.facebook.com/events/172862200020052/
+
+**Please invite your friends to the facebook event!**
+
+**Niall, is your poster ready for printing and distribution?**
+
+**Are we ready to contact the Bath Press Office?**
 
 ## Notes
 
 ### Trial Game
 
 ### Funding
+
+### Publicity
