@@ -97,6 +97,10 @@ Using TV screens is useless.
 
 Maya says that she has info from a previous event regarding which channels they heard about the event through...
 
+**Could Niall reach out to the COP21 group (group of academics) to reach out to their networks?**
+
+**Maybe ask for Bath email addresses on the Eventbrite for mailing list compatibility.**
+
 ### Post World Climate Event
 
 An event to keep the momentum going, bring new members into BSP activities.
