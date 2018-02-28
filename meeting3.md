@@ -13,6 +13,21 @@ _2018 02 28_
 
 [Went well. learned some stuff.](./trialgame.md)
 
+```
+We had a great trial of the world climate negotiations game yesterday. The full notes can be found here.
+ 
+A few key action items:
+ 
+1.       Steve will follow up on finding more information regarding the economic costs of emissions reductions for each country (getting in touch with Alaa, whose research was on this topic).
+2.       Alastair will compile info regarding personal carbon footprint calculation and opportunities for reducing personal impact, and also compile info regarding effective climate / social charities, through 3rd party organisations like Givewell.
+3.       Auri will compile information regarding personal carbon offsetting.
+4.       We still need someone to collect information regarding the expected impacts of exceeding 1.5 and 2 C, and other effects of climate change and compile this into a few PowerPoint slides. Does someone feel like they might know something about this and would like to contribute?
+ 
+For anyone compiling this additional information for the game, please put together the information into 1 or 2 succinct PowerPoint slides, with references to sources. We will add these slides into the facilitator presentation for the event.
+```
+
+**We still need someone to collect information regarding the expected impacts of exceeding 1.5 and 2 C, and other effects of climate change and compile this into a few PowerPoint slides. Does someone feel like they might know something about this and would like to contribute?**
+
 ### Funding
 
 We currently have access to:
