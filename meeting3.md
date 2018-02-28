@@ -47,6 +47,10 @@ Facebook event has been created:
 
 https://www.facebook.com/events/172862200020052/
 
+![QR Code for poster](./World_Climate_Interactive_Negotiations_Game.png)
+
+
+
 **Please invite your friends to the facebook event!**
 
 **Niall, is your poster ready for printing and distribution?**
