@@ -101,6 +101,18 @@ Maya says that she has info from a previous event regarding which channels they 
 
 **Maybe ask for Bath email addresses on the Eventbrite for mailing list compatibility.**
 
+**How to get onto the Bath Uni what's on page? Maya will check out.**
+
+**Doctoral Digest**
+
+More clickbaity names for the event?
+
+**Climate Countdown**
+
+or others?
+
+**ask for suggestions?**
+
 ### Post World Climate Event
 
 An event to keep the momentum going, bring new members into BSP activities.
