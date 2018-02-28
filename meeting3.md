@@ -47,7 +47,7 @@ Facebook event has been created:
 
 https://www.facebook.com/events/172862200020052/
 
-![QR Code for poster](./World_Climate_Interactive_Negotiations_Game.png | width=100)
+[QR Code for poster](./World_Climate_Interactive_Negotiations_Game.png)
 
 
 
