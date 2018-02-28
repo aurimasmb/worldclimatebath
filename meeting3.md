@@ -129,3 +129,12 @@ BSP carbon footprint reduction roullete / darts
  * meat-free monday
  * no plastic for a year... etc...
  
+Idea for an event:
+
+a few presentations followed by a discussion / collab session (like the previous BSP events.)
+
+talk about personal commitments? 
+
+An idea for a follow up session:
+
+Moving from personal to political / collective action 
