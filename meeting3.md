@@ -4,9 +4,9 @@ _2018 02 28_
 
 ### Attended: 
 
-* Auri
-* Steve 
-* Alastair
+* Auri Bukauskas
+* Steve Davey
+* Alastair Marsh
 * Kat Lauber
 * Maya Singer Hobbs
 
@@ -72,8 +72,8 @@ https://www.facebook.com/events/172862200020052/
 
 Adding a few slides to the facilitator powerpoint:
 
-* Maya - impacts.
-* Cat - social impacts (Cape Town, etc.)
+* **Maya - Impacts at 1.5, 2 C.**
+* **Kat - Social impacts of climate change (issues in Cape Town, etc.)**
 
 Why 2 C? 
 
@@ -130,20 +130,13 @@ Measuring impact / feedback?
 
 Doctoral College might like some tangible impacts...
 
-Bike ride?
-
 It would be nice to get the new members to commit to some kind of personal impact reduction?
+ 
+Ideas for an event:
 
-BSP carbon footprint reduction roullete / darts
+1. A few presentations followed by a discussion / collab session (like the previous BSP events.) talk about personal commitments?  Moving from personal to political / collective action 
+2. Bike ride?
+3. BSP carbon footprint reduction roullete / darts
  * meat-free monday
  * no plastic for a year... etc...
- 
-Idea for an event:
 
-a few presentations followed by a discussion / collab session (like the previous BSP events.)
-
-talk about personal commitments? 
-
-An idea for a follow up session:
-
-Moving from personal to political / collective action 
