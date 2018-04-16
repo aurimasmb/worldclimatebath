@@ -31,3 +31,12 @@ Then explain what the non-country groups are supposed to do.
 7. Negotiations, Final Round
 8. Debrief
 
+
+
+Did you cover any of the following key concepts during your debrief? (check all that apply) *
+
+"Bathtub" dynamics of atmospheric CO2 
+
+Solutions to climate change 
+
+Real-world actions participants can take 
