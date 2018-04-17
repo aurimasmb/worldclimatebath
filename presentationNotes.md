@@ -35,17 +35,49 @@ Then explain what the non-country groups are supposed to do.
 
 Did you cover any of the following key concepts during your debrief? (check all that apply) *
 
-"Bathtub" dynamics of atmospheric CO2 
-
-Solutions to climate change 
-
-find a good bathtub simulator
-
-
-Real-world actions participants can take 
+1. "Bathtub" dynamics of atmospheric CO2 
+2. Solutions to climate change 
+3. Real-world actions participants can take 
 
 
 https://www.climateinteractive.org/programs/scoreboard/
 
 
 http://scripts.mit.edu/~jsterman/climate/master/?
+
+
+https://ss2.climatecentral.org/#4/43.04/-30.59?show=popd&projections=0-K14_RCP85-SLR&level=1&unit=feet&pois=hide
+
+
+...
+
+
+Presentation Todo:
+
+## Improve Intro
+
+Add slides explaining challenges
+
+2 Major Sets of Challenges:
+
+Climate-Change Challenges
+
+
+Present Challenges in Climate Change, and other things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Costs of Action:
+
+
+Costs of Inaction:
