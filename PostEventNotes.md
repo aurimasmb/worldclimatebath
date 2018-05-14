@@ -78,3 +78,14 @@ Participants also struggled to digest the country pack information quickly enoug
 
 We created our own slide presentation for our World Climate event ( https://slides.com/aurimasmb/worldclimate/#/ ), based on the one provided in the materials. We added some additional interactive data graphics and hosted live online so that wandering "UNEP Climate Scientists" with iPads could help the various country groups with quick fact checks regarding population, emissions statistics, economic indicators, etc.  
 ```
+
+
+--- 
+
+## Feedback from Participants 
+
+"Perhaps discuss what other countries are doing to impact other countries and discuss policies to implement."
+
+"More time for negotiation. More chance to find out what policies we would need to implement to meet our commitments. (Not sure how to do this without extending play time.)"
+
+"Advertise it maybe outside uni"
